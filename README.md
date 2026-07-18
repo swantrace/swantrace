@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy-psi-eight.vercel.app/?username=swantrace&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-psi-eight.vercel.app/?username=swantrace&theme=onedark)](https://github.com/swantrace/github-profile-trophy)
 <!--
 **swantrace/swantrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
